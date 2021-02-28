@@ -1,5 +1,5 @@
 # kaggle inClass competition
-This page describes how students should participate in a kaggle inClass competition organized by
+This page describes how students can participate in a kaggle inClass competition organized by
 their Teaching Assistants (TAs) for a KU Leuven course.
 
 ## overview
@@ -42,13 +42,13 @@ Now your team can start working on the assignment.
     - finally, change the notebook name and save a version.
 2. All group members can open the shared notebook and start working on their version of (part of) the notebook. All
 members of the team can view each other's notebooks but editing will always create a new copy that needs to saved 
-as a new notebook file. We recommend that you use distinct notebook filename to keep track of these different notebooks
+as a new notebook file. We recommend that you use distinct notebook filenames to keep track of these different notebooks
 and ensure proper submission of your final notebook in the end.
-3. Once you are ready, submit the results to get a(n updated) score on the leaderboard (max 2 submissions per day allowed).
+3. Once you are ready, submit the results to get a score on the leaderboard (max 2 submissions per day allowed).
 
 ## step4: submit final results and share your notebook with TAs
 To complete the assignment, each team must submit results at least once **and** share its notebook with the TAs 
-(Kaggle account and email address are available on Toledo).
+(Kaggle account and email address are available on Toledo) before the deadline.
 ![Team creation](./img/kaggle_sharenotebook.png)
 
 ## questions?
