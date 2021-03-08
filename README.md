@@ -48,7 +48,7 @@ Now that you are setup, your team can really start working on the assignment.
         ![Save notebook](./img/kaggle_savenotebook.png)
     - finally, share this notebook in writer mode with all the group members
         ![Save notebook](./img/kaggle_sharenotebook.png)
-2. The leader will find the notebook in the Code/Your Work section and see wiht whom it's shared:
+2. The leader will find the notebook in the Code/Your Work section and see with whom it's shared:
     ![Leader notebook](./img/kaggle_leader.png)
     For the other group members, the team notebook will appear in the Code/Shared With You section:
     ![Leader notebook](./img/kaggle_member.png)
