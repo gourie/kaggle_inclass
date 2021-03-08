@@ -11,7 +11,7 @@ their Teaching Assistants (TAs) for a KU Leuven course.
 
 
 ## step0: complete prerequisites
-1. Create a kaggle account (if you don't have one yet, note that new users have to pass a few verification steps before all functions in Kaggle work).
+1. Create a kaggle account (if you don't have one yet, note that new users have to pass a few verification steps before all functions in kaggle work).
 2. Find the url of the kaggle inClass competition in the Toledo *Assignment*.
 3. Download the template notebook from Toledo.
 
@@ -20,11 +20,10 @@ Every group member should login to kaggle.com, browse to the inClass competition
 ![Join](./img/kaggle_join.png)
 
 ## step2: setup kaggle team with template notebook
-Each group will have to designate **one group leader** who will perform a few startup steps. 
-
+Each group will have to designate **one group leader** who will perform the following startup steps: 
 1. The leader creates a team using the designated group name found on Toledo.
 ![Team creation](./img/kaggle_teamcreation.png)
-2. The leader imports the template notebook and shares by this with all group members (using their kaggle accounts).
+2. The leader imports the template notebook and shares this with all group members and the TAs (using their kaggle accounts).
     - create a New notebook
         ![New notebook](./img/kaggle_newnotebook.png)
     - select File > Open Notebook to upload the template notebook that you downloaded from Toledo.
@@ -41,12 +40,17 @@ Now that your team has been setup, you can really get started with the assignmen
     ![Leader notebook](./img/kaggle_leader.png)
 2. For the other group members, the team notebook will appear in the Code/Shared With You section:
     ![Leader notebook](./img/kaggle_member.png)
-3. All group members can now start working on this team notebook. Each group member should 
-save his/her work in new versions of the notebook.
+3. All group members can now start working on this team notebook. Each group member should save his/her work in new versions of the notebook.
+You are free to manage these versions as you like (possibly outside kaggle), but please make sure to provide your final notebook
+in the expected format yielding the expected outputs for submission.
+
 
 ## step4: submit results
-Once you are ready, the leader can submit  (intermediate) results to get a score on the leaderboard. Note that the TAs 
-will use your latest results and notebook to grade your submission so please make sure that this notebook contains 
+Once you are ready, you can submit (intermediate) results to get a score on the Public Leaderboard. To submit, you should open 
+your notebook and then select Submit to Competition behind the ... next to the Edit button: 
+![Leader notebook](./img/kaggle_notebooksubmit.png)
+
+Note that the TAs will use your latest results and notebook to grade your submission so please make sure that this notebook contains 
 your best and final results! 
 
 
