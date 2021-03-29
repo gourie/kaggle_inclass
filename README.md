@@ -28,11 +28,11 @@ Each group will have to designate **one group leader** who will perform the foll
         ![New notebook](./img/kaggle_newnotebook.png)
     - select File > Open Notebook to upload the template notebook that you downloaded from Toledo.
         ![Upload notebook](./img/kaggle_uploadnotebook.png)
-    - once the template notebook has been loaded, you can change the notebook name and save a first version.
+    - once the template notebook has been loaded, change the notebook name to **<group_name>_notebook** and save a first version.
         ![Save notebook](./img/kaggle_savenotebook.png)
     - share this notebook in *writer mode* with all the group members 
         ![Save notebook](./img/kaggle_sharenotebook.png)
-    - share the group notebook in *reader mode* with the TAs to allow grading your submission for this course project.
+    - share the group notebook in *reader mode* with all the TAs to allow grading your submission for this course project.
 
 ## step3: code and version your team notebook
 Now that your team has been setup, you can really get started with the assignment. 
@@ -50,7 +50,7 @@ Once you are ready, you can submit (intermediate) results to get a score on the 
 your notebook and then select Submit to Competition behind the ... next to the Edit button: 
 ![Leader notebook](./img/kaggle_notebooksubmit.png)
 
-Note that the TAs will use your latest results and notebook to grade your submission so please make sure that this notebook contains 
+Note that the TAs will use your latest notebook which resulted in a successful submission to grade your submission so please make sure that this notebook contains 
 your best and final results! 
 
 
